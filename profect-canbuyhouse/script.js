@@ -6,6 +6,7 @@ function canBuyHouse(
 ) {
   // Calculate total number of months for the withdrawal duration
   const monthsInWithdrawalDuration = withdrawalDurationInYears * 12;
+  пше;
 
   // Calculate the monthly interest rate
   const monthlyInterestRate = interestRate / 12 / 100;
